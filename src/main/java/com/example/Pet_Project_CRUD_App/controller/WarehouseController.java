@@ -169,36 +169,3 @@ public class WarehouseController {
         warehouseService.deleteProduct(id);
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-/*// UPDATE PRODUCT
-    @PutMapping("/{id}")
-    public ResponseEntity<Warehouse> updateProduct(@PathVariable Long id, @RequestBody Warehouse warehouseDetails) {
-        try {
-            Warehouse updatedProduct = warehouseService.updateProduct(id, warehouseDetails);
-            return ResponseEntity.ok(updatedProduct);
-        } catch (RuntimeException e) {
-            return ResponseEntity.notFound().build();
-        }
-    }
-
-    // DELETE PRODUCT
-    @DeleteMapping("/{id}")
-    public ResponseEntity<Void> deleteProduct(@PathVariable Long id) {
-        try {
-            warehouseService.deleteProduct(id);
-            return ResponseEntity.ok().build();
-        } catch (Exception e) {
-            return ResponseEntity.notFound().build();
-        }
-    }*/
