@@ -1,0 +1,17 @@
+C:\Users\User\Pet-Project-CRUD-App\src\main\java\com\example\Pet_Project_CRUD_App\controller\TestController.java
+C:\Users\User\Pet-Project-CRUD-App\src\main\java\com\example\Pet_Project_CRUD_App\controller\WarehouseController.java
+C:\Users\User\Pet-Project-CRUD-App\src\main\java\com\example\Pet_Project_CRUD_App\dto\CategoryStatsDto.java
+C:\Users\User\Pet-Project-CRUD-App\src\main\java\com\example\Pet_Project_CRUD_App\dto\ErrorWithData.java
+C:\Users\User\Pet-Project-CRUD-App\src\main\java\com\example\Pet_Project_CRUD_App\dto\WarehouseRequestDto.java
+C:\Users\User\Pet-Project-CRUD-App\src\main\java\com\example\Pet_Project_CRUD_App\dto\WarehouseResponseDto.java
+C:\Users\User\Pet-Project-CRUD-App\src\main\java\com\example\Pet_Project_CRUD_App\entity\Category.java
+C:\Users\User\Pet-Project-CRUD-App\src\main\java\com\example\Pet_Project_CRUD_App\entity\Product.java
+C:\Users\User\Pet-Project-CRUD-App\src\main\java\com\example\Pet_Project_CRUD_App\entity\Warehouse.java
+C:\Users\User\Pet-Project-CRUD-App\src\main\java\com\example\Pet_Project_CRUD_App\entity\WarehousePlace.java
+C:\Users\User\Pet-Project-CRUD-App\src\main\java\com\example\Pet_Project_CRUD_App\mapper\WarehouseMapper.java
+C:\Users\User\Pet-Project-CRUD-App\src\main\java\com\example\Pet_Project_CRUD_App\PetProjectCrudAppApplication.java
+C:\Users\User\Pet-Project-CRUD-App\src\main\java\com\example\Pet_Project_CRUD_App\repository\CategoryRepository.java
+C:\Users\User\Pet-Project-CRUD-App\src\main\java\com\example\Pet_Project_CRUD_App\repository\ProductRepository.java
+C:\Users\User\Pet-Project-CRUD-App\src\main\java\com\example\Pet_Project_CRUD_App\repository\WarehousePlaceRepository.java
+C:\Users\User\Pet-Project-CRUD-App\src\main\java\com\example\Pet_Project_CRUD_App\repository\WarehouseRepository.java
+C:\Users\User\Pet-Project-CRUD-App\src\main\java\com\example\Pet_Project_CRUD_App\service\WarehouseService.java
